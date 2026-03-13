@@ -34,7 +34,7 @@
 // #include <mgba/internal/gba/gba.h>
 // #include <mgba/internal/gba/sio.h>
 // #include <mgba/gba/interface.h>
-#include "ards.cpp" // Include Action Replay DS Interpreter directly
+#include "ards.h" // Action Replay DS Interpreter declarations
 
 #define EVENT_SHADER_LOAD (SDL_USEREVENT + 1)
 
